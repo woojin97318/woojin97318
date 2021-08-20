@@ -1,9 +1,9 @@
 <div align=right>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoojin97318&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>  
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoojin97318&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
+<br>
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&section=header&height=300&text=Jeon Wujin&animation=scaleIn&fontSize=90"/>
-  <br>
   <br>
   <br>
   
@@ -24,9 +24,10 @@
   <br>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojin97318&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  <br>
+  <br>
   <a href="https://woojin97318.github.io/">
     <img src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=github&link=https://woojin97318.github.io//"
          style="height:auto;margin-left:12px;margin-right:12px;"/>
@@ -44,9 +45,6 @@
          style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
   
 ## 깃 튜토리얼
 
