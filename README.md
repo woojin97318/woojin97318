@@ -20,8 +20,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   
-  <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/wu______jin/"
-       style="height:auto;margin-left:12px;margin-right:12px;"/>
+  <a href="https://www.instagram.com/wu______jin/">
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wu______jin/"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
 </div>
   
 ## 깃 튜토리얼
