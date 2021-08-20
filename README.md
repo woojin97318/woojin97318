@@ -1,3 +1,29 @@
+<div align=right>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoojin97318&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>  
+</div>
+
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&section=header&height=300&text=Jeon Wujin&animation=scaleIn&fontSize=90"/>
+  <br>
+  <br>
+  <br>
+  
+  ### :open_file_folder: Tech Stack :open_file_folder:
+  ### Techs that I've used at least once
+  <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+  
+  <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/wu______jin/"
+       style="height:auto;margin-left:12px;margin-right:12px;"/>
+</div>
+  
 ## 깃 튜토리얼
 
 소스코드 블록은 다음과 같이 작성할 수 있습니다.
@@ -24,6 +50,7 @@ int main(void) {
 인용 구문은 다음과 같이 작성할 수 있습니다.
 
 > '공부합시다.' - 전우진 -
+>> '공부합시다.' - 전우진 -
 
 테이블은 다음과 같이 작성할 수 있습니다.
 
