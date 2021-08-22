@@ -29,7 +29,7 @@
   <br>
   <br>
   <a href="https://woojin97318.github.io/">
-    <img src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=github&link=https://woojin97318.github.io//"
+    <img src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=github&link=https://woojin97318.github.io/"
          style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
   <a href="https://www.facebook.com/woojin97318/">
