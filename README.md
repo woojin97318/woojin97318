@@ -45,8 +45,8 @@
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wu______jin/"
          style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
-  <a href="mailto:woojin97318@gmail.com">
-    <img src="http://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&link=woojin97318@gmail.com"
+  <a href="mailto:woojin97318@naver.com">
+    <img src="http://img.shields.io/badge/-Naver-black?style=flat&logo=Naver&link=woojin97318@naver.com"
          style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
 </div>
