@@ -5,6 +5,22 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&section=header&height=300&text=Jeon Wujin&animation=scaleIn&fontSize=90"/>
   <br>
+  <a href="https://woojin97318.github.io/">
+    <img src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=github&link=https://woojin97318.github.io/"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
+  <a href="https://www.facebook.com/woojin97318/">
+    <img src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://www.facebook.com/woojin97318/"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
+  <a href="https://www.instagram.com/wu______jin/">
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wu______jin/"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
+  <a href="mailto:woojin97318@naver.com">
+    <img src="http://img.shields.io/badge/-Naver-black?style=flat&logo=Naver&link=woojin97318@naver.com"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
   <br>
   
   ## :open_file_folder: Tech Stack :open_file_folder:
@@ -30,24 +46,5 @@
   <br>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojin97318&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojin97318&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-  <br>
-  <br>
-  <br>
-  <a href="https://woojin97318.github.io/">
-    <img src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=github&link=https://woojin97318.github.io/"
-         style="height:auto;margin-left:12px;margin-right:12px;"/>
-  </a>
-  <a href="https://www.facebook.com/woojin97318/">
-    <img src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://www.facebook.com/woojin97318/"
-         style="height:auto;margin-left:12px;margin-right:12px;"/>
-  </a>
-  <a href="https://www.instagram.com/wu______jin/">
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wu______jin/"
-         style="height:auto;margin-left:12px;margin-right:12px;"/>
-  </a>
-  <a href="mailto:woojin97318@naver.com">
-    <img src="http://img.shields.io/badge/-Naver-black?style=flat&logo=Naver&link=woojin97318@naver.com"
-         style="height:auto;margin-left:12px;margin-right:12px;"/>
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojin97318&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
