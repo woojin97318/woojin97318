@@ -42,9 +42,4 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   <br>
-  
-  <!--
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojin97318&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojin97318&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  -->
 </div>
