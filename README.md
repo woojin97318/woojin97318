@@ -1,19 +1,20 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&section=header&height=300&text=Jeon Wujin&animation=scaleIn&fontSize=90"/>
   <br>
-  <!--
-  <a href="https://woojin97318.github.io/">
-    <img src="http://img.shields.io/badge/-Tech Blog-black?style=flat&logo=github&link=https://woojin97318.github.io/" style="height:auto;margin-left:12px;margin-right:12px;"/>
+  <a href="mailto:woojin97318@naver.com">
+    <img src="http://img.shields.io/badge/-Email-black?style=flat&logo=Naver&link=woojin97318@naver.com" style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
-  -->
+  <a href="https://wujin97.notion.site/81ac92a977e64de4953f8eb35f745113">
+    <img src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://wujin97.notion.site/81ac92a977e64de4953f8eb35f745113" style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC8U5aY_4FvHVGA1VHb0caWA">
+    <img src="http://img.shields.io/badge/-YouTube-black?style=flat&logo=YouTube&link=https://www.youtube.com/channel/UC8U5aY_4FvHVGA1VHb0caWA" style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
   <a href="https://www.facebook.com/woojin97318/">
     <img src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://www.facebook.com/woojin97318/" style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
   <a href="https://www.instagram.com/wu______jin/">
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wu______jin/" style="height:auto;margin-left:12px;margin-right:12px;"/>
-  </a>
-  <a href="mailto:woojin97318@naver.com">
-    <img src="http://img.shields.io/badge/-Email-black?style=flat&logo=Naver&link=woojin97318@naver.com" style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
   
   <br>
