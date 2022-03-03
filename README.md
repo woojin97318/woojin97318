@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFx-e56e00?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=Git&logoColor=white"/>
   <br>
   
   ### Level 2 (어느 정도 사용할 수 있습니다.)
