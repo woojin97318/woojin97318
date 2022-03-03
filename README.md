@@ -17,7 +17,7 @@
   <br>
   
   ## :open_file_folder: Tech Stack :open_file_folder:
-  ### Level 3 (프로젝트에서 사용해 본 경험이 있습니다.)
+  ### Level 3 - 프로젝트에서 사용해 본 경험이 있습니다.
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/JavaFx-e56e00?style=flat-square&logo=Java&logoColor=white"/>
   <br>
   
-  ### Level 2 (어느 정도 사용할 수 있습니다.)
+  ### Level 2 - 어느 정도 사용할 수 있습니다.
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <br>
   
-  ### Level 1 (보고 이해할 수 있습니다.)
+  ### Level 1 - 보고 이해할 수 있습니다.
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
