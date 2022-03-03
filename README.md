@@ -7,9 +7,6 @@
   <a href="https://wujin97.notion.site/81ac92a977e64de4953f8eb35f745113">
     <img src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://wujin97.notion.site/81ac92a977e64de4953f8eb35f745113" style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC8U5aY_4FvHVGA1VHb0caWA">
-    <img src="http://img.shields.io/badge/-YouTube-black?style=flat&logo=YouTube&link=https://www.youtube.com/channel/UC8U5aY_4FvHVGA1VHb0caWA" style="height:auto;margin-left:12px;margin-right:12px;"/>
-  </a>
   <a href="https://www.facebook.com/woojin97318/">
     <img src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://www.facebook.com/woojin97318/" style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
