@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate)
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,materialui)
 
