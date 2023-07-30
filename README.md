@@ -17,6 +17,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,materialui)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,redux,materialui)
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,aws,docker,jenkins,gcp)
