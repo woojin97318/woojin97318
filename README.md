@@ -15,4 +15,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react)
 
-![My Skills](https://skillicons.dev/icons?i=git,aws,docker,jenkins)
+![My Skills](https://skillicons.dev/icons?i=linux,git,aws,docker,jenkins)
