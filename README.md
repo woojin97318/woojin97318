@@ -4,7 +4,7 @@
 
 ## Career
 
-#### 더휴식 [#THE HYOOSIK](https://www.thehyoosik.com/?gclid=CjwKCAjw5Ky1BhAgEiwA5jGujt8XN6uCL6Oc4b-x82Pl9gSuTknAIeyzx7bahKryIfHldFwhF4CZaRoCGL4QAvD_BwE)
+#### 더휴식 [#THE HYOOSIK](https://www.thehyoosik.com)
 - 2024.08 ~ ing
 
 #### 에스큐아이소프트 [#SQISOFT](https://www.sqisoft.com)
