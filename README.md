@@ -9,11 +9,3 @@
 
 #### 에스큐아이소프트 [#SQISOFT](https://www.sqisoft.com)
 - 2022.04 ~ 2024.01
-
-## Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis)
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react)
-
-![My Skills](https://skillicons.dev/icons?i=linux,git,aws,docker,jenkins)
